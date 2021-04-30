@@ -1,4 +1,4 @@
-##Reference paper is [ODE2VAE: Deep generative second order ODEs with Bayesian neural networks](https://arxiv.org/abs/1905.10994)
+Reference paper is [ODE2VAE: Deep generative second order ODEs with Bayesian neural networks](https://arxiv.org/abs/1905.10994)
 
 Proposal:
 
