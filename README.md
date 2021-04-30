@@ -8,4 +8,4 @@ Project goals:
 
 2. Predict returns by asset class (ex. stock index, fixed income, credit spread, REIT, commodities, volatility, etc.)
 
-3. Classify business cycle phases by MCMC or something, and try to enhance prediction accuracy of asset returns
+3. Classify business cycle phases by OECD economic leading indicator etc., and try to enhance prediction accuracy of asset returns
