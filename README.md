@@ -4,8 +4,8 @@ Proposal:
 
 Project goals:
 
-1. Implement ODE2VAE and test on toy examples
+1. Implement ODE2VAE using the author's code and test on the MNIST dataset.
 
-2. Predict returns by asset class (ex. stock index, fixed income, credit spread, REIT, commodities, volatility, etc.)
+2. Test on financial markets indices (ex. stock index, fixed income, credit spread, REIT, commodities, volatility, etc.) to extract latent space.
 
-3. Classify business cycle phases by OECD economic leading indicator etc., and try to enhance prediction accuracy of asset returns
+3. Compare the variables of the latent space with PCA factors.
